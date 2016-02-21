@@ -1,5 +1,6 @@
-This is a demo project for an article in [angular-tips](http://angular-tips.com).
+# webpack-demo
 
-Please go [here](https://github.com/Foxandxss/angular-webpack-workflow) to get the up to date workflow.
+It is a fork from https://github.com/angular-tips/webpack-demo/
 
-Please if you have any issue with the workflow, open an issue there.
+##References
+- [angular-tips](http://angular-tips.com)
